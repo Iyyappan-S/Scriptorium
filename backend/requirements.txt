@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pydantic
+pydantic-settings
+motor
+pymongo
+faiss-cpu
+sentence-transformers
+google-genai
+pandas
+requests
+pytest
+python-multipart
+neo4j
