@@ -1,6 +1,6 @@
-from backend.app.agents.base_agent import BaseAgent
+from app.agents.base_agent import BaseAgent
 
-from backend.app.rag.search import semantic_search
+from app.rag.search import semantic_search
 
 
 class CitationAgent(BaseAgent):

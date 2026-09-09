@@ -1,4 +1,4 @@
-from backend.app.embeddings.vector_store import search_vectors
+from app.embeddings.vector_store import search_vectors
 
 
 def semantic_search(query: str, top_k: int = 5):

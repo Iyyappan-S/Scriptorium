@@ -1,4 +1,4 @@
-from backend.app.services.gemini_service import (
+from app.services.gemini_service import (
     generate_answer,
     classify_query,
 )

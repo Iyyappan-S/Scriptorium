@@ -1,7 +1,7 @@
 from fastapi import APIRouter, HTTPException
 
-from backend.app.schemas.research import ResearchQuery
-from backend.app.agents.orchestrator import OrchestratorAgent
+from app.schemas.research import ResearchQuery
+from app.agents.orchestrator import OrchestratorAgent
 
 
 router = APIRouter(

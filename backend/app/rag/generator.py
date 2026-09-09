@@ -1,4 +1,4 @@
-from backend.app.services.gemini_service import generate_answer
+from app.services.gemini_service import generate_answer
 
 
 def generate_rag_answer(query: str, papers: list) -> str:

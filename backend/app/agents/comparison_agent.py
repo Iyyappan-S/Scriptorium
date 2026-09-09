@@ -1,7 +1,7 @@
-from backend.app.agents.base_agent import BaseAgent
-from backend.app.rag.search import semantic_search
-from backend.app.rag.context import build_context
-from backend.app.llm.gemini import generate_answer
+from app.agents.base_agent import BaseAgent
+from app.rag.search import semantic_search
+from app.rag.context import build_context
+from app.llm.gemini import generate_answer
 
 
 class ComparisonAgent(BaseAgent):

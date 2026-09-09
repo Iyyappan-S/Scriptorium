@@ -1,5 +1,5 @@
 from typing import List, Dict, Any
-from backend.app.services.search_service import search_papers
+from app.services.search_service import search_papers
 
 class VectorStore:
     _instance = None

@@ -6,7 +6,7 @@ from bson import ObjectId
 
 from google import genai
 
-from backend.app.database.mongodb import db
+from app.database.mongodb import db
 
 
 router = APIRouter(

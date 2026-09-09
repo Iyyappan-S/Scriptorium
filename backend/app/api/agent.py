@@ -1,5 +1,5 @@
 from fastapi import APIRouter
-from backend.app.agents.research_agent import ResearchAgent
+from app.agents.research_agent import ResearchAgent
 
 router = APIRouter()
 
