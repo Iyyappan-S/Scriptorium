@@ -1,6 +1,6 @@
 # 🎓 Scriptorium : AI-Multi-Agent Academic Research Platform
 
-![Scriptorium Demo](https://img.shields.io/badge/Status-Live_Deployment-success.svg)
+![Scriptorium Demo](https://scriptorium-analysis.netlify.app)
 ![React](https://img.shields.io/badge/Frontend-React_Vite-61DAFB?logo=react)
 ![FastAPI](https://img.shields.io/badge/Backend-FastAPI_Python-009688?logo=fastapi)
 ![Gemini](https://img.shields.io/badge/AI_Engine-Google_Gemini-FFA700?logo=google)
