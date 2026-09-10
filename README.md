@@ -1,4 +1,4 @@
-# 🎓 Scriptorium : Multi-Agent Academic Research Platform
+# 🎓 Scriptorium : AI-Multi-Agent Academic Research Platform
 
 ![Scriptorium Demo](https://img.shields.io/badge/Status-Live_Deployment-success.svg)
 ![React](https://img.shields.io/badge/Frontend-React_Vite-61DAFB?logo=react)
