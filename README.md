@@ -5,7 +5,11 @@
 ![FastAPI](https://img.shields.io/badge/Backend-FastAPI_Python-009688?logo=fastapi)
 ![Gemini](https://img.shields.io/badge/AI_Engine-Google_Gemini-FFA700?logo=google)
 
-**Scriptorium AI** is a production-ready, multi-agent academic research assistant designed to automate literature reviews, stress-test academic claims, and simulate citation integrity. Built for modern researchers, it pairs an advanced RAG (Retrieval-Augmented Generation) AI architecture with a stunning spatial glassmorphism UI.
+ **Scriptorium AI** is a production-ready, multi-agent academic research platform built to automate rigorous literature reviews and stress-test academic claims. Powered by a custom Retrieval-Augmented Generation (RAG) pipeline and Google Gemini, it utilizes specialized AI sub-agents to execute deterministic research, compare methodologies, and simulate citation integrity. 
+
+---
+ 
+The platform features an ultra-premium spatial glassmorphism UI, a live Adversarial Agent Debate terminal, and hardware Biometric Authentication for a state-of-the-art user experience. Engineered under strict server constraints, it seamlessly integrates a FastAPI backend with a dynamic React frontend environment.
 
 ---
 
