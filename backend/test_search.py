@@ -1,7 +1,6 @@
 from backend.app.rag.embedding import generate_embedding
 from backend.app.rag.vector_store import VectorStore
 import json
-
 print("Loading FAISS index...")
 
 store = VectorStore()
