@@ -17,10 +17,6 @@ TIMEOUT = 30
 SAVE_EVERY = 100
 
 
-# ============================================================
-# ABSTRACT RECONSTRUCTION
-# ============================================================
-
 def reconstruct_abstract(inverted_index):
 
     if not inverted_index:
