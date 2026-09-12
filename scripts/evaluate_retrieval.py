@@ -6,7 +6,7 @@ from app.embeddings.vector_store import get_vector_store
 
 def evaluate():
     store = get_vector_store()
-    
+
     queries = [
         "machine learning applications in healthcare",
         "deep learning medical image analysis",
