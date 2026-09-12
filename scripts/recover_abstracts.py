@@ -44,9 +44,6 @@ def reconstruct_abstract(inverted_index):
     return abstract.strip()
 
 
-# ============================================================
-# OPENALEX ID EXTRACTION
-# ============================================================
 
 def extract_work_id(openalex_id):
 
