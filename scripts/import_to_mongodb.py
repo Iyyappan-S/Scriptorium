@@ -2,8 +2,6 @@ import os
 import pandas as pd
 from pymongo import MongoClient
 from dotenv import load_dotenv
-
-# Load .env
 load_dotenv("backend/.env")
 
 MONGODB_URI = os.getenv("MONGODB_URI")
