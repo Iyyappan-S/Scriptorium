@@ -14,9 +14,6 @@ PER_PAGE = 200
 os.makedirs("dataset/raw", exist_ok=True)
 
 
-# ============================================================
-# ABSTRACT RECONSTRUCTION
-# ============================================================
 
 def reconstruct_abstract(inverted_index):
 
