@@ -4,7 +4,6 @@ import numpy as np
 import pickle
 import os
 from sentence_transformers import SentenceTransformer
-
 def create_embeddings():
     print("Loading dataset...")
     df = pd.read_csv("../dataset/processed/clean_research_papers.csv")
