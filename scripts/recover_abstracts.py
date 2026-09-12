@@ -4,10 +4,6 @@ import pandas as pd
 import requests
 
 
-# ============================================================
-# CONFIGURATION
-# ============================================================
-
 INPUT_FILE = "dataset/raw/openalex_research_papers.csv"
 
 OUTPUT_FILE = "dataset/processed/recovered_research_papers.csv"
