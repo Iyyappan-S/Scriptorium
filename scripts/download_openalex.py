@@ -3,7 +3,6 @@ import pandas as pd
 import os
 import time
 
-
 API_URL = "https://api.openalex.org/works"
 
 OUTPUT_FILE = "dataset/raw/openalex_research_papers.csv"
