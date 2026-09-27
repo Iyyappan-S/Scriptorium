@@ -4,7 +4,6 @@ from pydantic import BaseModel
 from app.agents.orchestrator import OrchestratorAgent
 
 router = APIRouter()
-
 orchestrator = OrchestratorAgent()
 
 
