@@ -10,7 +10,6 @@ class ResearchRequest(BaseModel):
 
 @router.post("/research")
 def research(request: ResearchRequest):
-
     query = request.query.strip()
 
     if not query:
