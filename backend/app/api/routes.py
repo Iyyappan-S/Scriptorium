@@ -7,7 +7,6 @@ router = APIRouter()
 orchestrator = OrchestratorAgent()
 class ResearchRequest(BaseModel):
     query: str
-
 @router.post("/research")
 def research(request: ResearchRequest):
     query = request.query.strip()
