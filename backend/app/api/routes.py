@@ -8,7 +8,6 @@ orchestrator = OrchestratorAgent()
 class ResearchRequest(BaseModel):
     query: str
 
-
 @router.post("/research")
 def research(request: ResearchRequest):
 
