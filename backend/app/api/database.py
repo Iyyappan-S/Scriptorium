@@ -1,6 +1,5 @@
 from fastapi import APIRouter
 from app.database.mongodb import database
-
 router = APIRouter()
 
 @router.get("/database-test")
