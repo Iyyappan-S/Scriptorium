@@ -6,7 +6,6 @@ from app.agents.orchestrator import OrchestratorAgent
 router = APIRouter()
 orchestrator = OrchestratorAgent()
 
-
 class ResearchRequest(BaseModel):
     query: str
 
